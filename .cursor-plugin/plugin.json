@@ -1,0 +1,15 @@
+{
+  "name": "simple-macros",
+  "displayName": "Simple Macros",
+  "version": "1.0.0",
+  "description": "Track calories and macros, log meals and weigh-ins, save favorite meals, and build restaurant orders through Simple Macros.",
+  "author": {
+    "name": "Simple Macros",
+    "email": "support@simplemacros.com"
+  },
+  "homepage": "https://simplemacros.com/connect",
+  "repository": "https://github.com/Cody123Anderson/simple-macros-plugin",
+  "logo": "assets/logo.png",
+  "keywords": ["nutrition", "calories", "macros", "food", "restaurants", "fitness", "mcp"],
+  "mcpServers": "mcp.json"
+}
